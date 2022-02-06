@@ -10,4 +10,4 @@ services:
         links:
             - php
     php:
-        image: php:7-fpm- ./code:/code
+        image: php:7-fpm
